@@ -1,0 +1,31 @@
+.middle h4 {
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 133.69%;
+}
+.middle p {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 150%;
+}
+.middle img {
+  margin-top: -60px;
+}
+.middle {
+  height: 500px;
+  background: #f7f7f7;
+}
+@media only screen and (max-width: 990px) {
+  .middle {
+    height: 100%;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .middle h4 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 133.69%;
+    text-align: center;
+  }
+}

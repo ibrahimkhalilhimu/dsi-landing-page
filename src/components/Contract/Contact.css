@@ -1,0 +1,42 @@
+.contact h4 {
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 56px;
+  letter-spacing: -0.05em;
+}
+@media only screen and (max-width: 425px) {
+  .silverLight {
+    width: 113.35px;
+    height: 34.92px;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .netFrameWork {
+    width: 98.03px;
+    height: 41.66px;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .java {
+    width: 66.17px;
+    height: 36.76px;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .ios {
+    width: 65px;
+    height: 37.37px;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .android {
+    width: 122.54px;
+    height: 18.81px;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .blackBerry {
+    width: 110px !important;
+    height: 21.5px;
+  }
+}

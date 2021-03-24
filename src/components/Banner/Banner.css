@@ -1,0 +1,44 @@
+.banner button {
+  background: #ee4248;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  padding: 12px 32px;
+  color: #fff;
+}
+.banner {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.banner h3 {
+  font-weight: bold;
+  font-size: 43px;
+  line-height: 133.69%;
+}
+.banner img {
+  width: 562.97px;
+}
+@media only screen and (max-width: 766px) {
+  .banner .bannerText {
+    padding-top: 19px;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .bannerText {
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .bannerText h3 {
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 133.69%;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .bannerText p {
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 29px;
+  }
+}
