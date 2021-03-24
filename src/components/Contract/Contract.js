@@ -18,7 +18,7 @@ const Contract = () => {
                     Alam Sutera Serpong, Tangerang 15323
                         </p>
                 </div>
-                <div className="col-md-3">
+                <div className="col-md-3 contractNumber">
                     <h5>Contact</h5>
                     <p>
                     Phone : +62.21.5314.1135<br/>
@@ -26,7 +26,7 @@ const Contract = () => {
                     Email : community@dwidasa.com
                     </p>
                 </div>
-                <div className="col-md-5">
+                <div className="col-md-5 contractImage">
                     <div className="d-flex justify-content-around">
                         <img className="silverLight" style={{width:"133.24px",height: "41.05px"}} src="https://i.ibb.co/m6rHnQv/image-7.png" alt=""/>
                         <img className="netFrameWork" style={{width:"115.23px",height: "48.97px"}} src="https://i.ibb.co/qDCYJTH/image-9.png" alt=""/>

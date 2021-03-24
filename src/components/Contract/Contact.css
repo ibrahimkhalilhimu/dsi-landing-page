@@ -4,6 +4,22 @@
   line-height: 56px;
   letter-spacing: -0.05em;
 }
+.contractNumber {
+  padding-top: 30px !important;
+}
+.contractImage {
+  padding-top: 32px;
+}
+@media only screen and (max-width: 425px) {
+  .contractImage {
+    padding-top: 0px !important;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .contractNumber {
+    padding-top: 0px !important;
+  }
+}
 @media only screen and (max-width: 425px) {
   .silverLight {
     width: 113.35px;
