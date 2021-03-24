@@ -6,7 +6,7 @@ const Middle = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-md-6">
-                    <img className="img-fluid" src="https://i.ibb.co/FqRxSr9/pana.png" alt=""/>
+                    <img className="img-fluid animated" src="https://i.ibb.co/FqRxSr9/pana.png" alt=""/>
                     </div>
                     <div className="col-md-6 pt-4">
                     <h4>Welcome to <span style={{color:"#FF464F"}}>Dwidasa Samsara Indonesia (DSI)</span> </h4><br/>

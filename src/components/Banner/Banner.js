@@ -13,7 +13,7 @@ const Banner = () => {
                 <button className="btn mt-2">Read More</button>
                 </div>
                 <div className="col-md-6 order-md-2 order-1 col-sm-12">
-                    <img className="img-fluid" src="https://i.ibb.co/tqPHhyS/pana2.png" alt=""/>
+                    <img className="img-fluid animated" src="https://i.ibb.co/tqPHhyS/pana2.png" alt=""/>
                 </div>
             </div>
         </div>
